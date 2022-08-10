@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Github</string>
+    <string name="kategori">Kategori</string>
+    <string name="txt_raw_asal">Asal</string>
+    <string name="txt_raw_umur">Umur</string>
+    <string name="id">id</string>
+</resources>
